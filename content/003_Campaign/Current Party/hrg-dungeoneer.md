@@ -7,21 +7,21 @@ homeland:
 aliases:
   - Hrg
 tags:
-  - pc
-  - dungeoneer
+  - pc/class/dungeoneer
+  - pc/status/alive
 adventure-start: 
 adventure-end: 
 draft: false
 ---
-# Personality
+## Personality
 ### Ideals
 Interact with a rare creature.
 ### Flaws
 Throw caution to the wind.
-# Backstory
+## Backstory
 What better way to discover the rarest fish and hit it rich than Dungeoneering? Sure beats getting a real job!
-# Personal Quest
+## Personal Quest
 - Fish up every single fish in the Land of Eem.
-# Relationships
+## Relationships
 - **Party Members**: [[delmer-loyal-chum|Delmer]], [[leonard-gnome|Leonard]]
 

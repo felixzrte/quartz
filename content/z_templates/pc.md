@@ -11,14 +11,14 @@ adventure-start:
 adventure-end: 
 draft: false
 ---
-# Personality
+## Personality
 ### Ideals
 
 ### Flaws
 
-# Backstory
+## Backstory
 
-# Personal Quest
+## Personal Quest
 
-# Relationships
+## Relationships
 - **Party Members**:
