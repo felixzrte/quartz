@@ -9,6 +9,7 @@ aliases:
 tags:
   - pc/class/loyal-chum
   - pc/status/alive
+  - pc/party/current
 adventure-start: 
 adventure-end: 
 draft: false

@@ -9,11 +9,12 @@ aliases:
 tags:
   - pc/class/gnome
   - pc/status/alive
+  - pc/party/current
 adventure-start: 
 adventure-end: 
 draft: false
 ---
-![[LeonardtheGnome.webp | 300]]
+![leonard | 300](https://media.discordapp.net/attachments/1375129356212506735/1375129773172330568/LeonardtheGnome.webp?ex=683090e6&is=682f3f66&hm=b63277ed6e58118f4c7d571b3d9036f0f0b062ceef782e14bc3d2b6851576bf2&=&format=webp)
 ## Personality
 ### Ideals
 Risk my life to save an animal or to preserve nature.

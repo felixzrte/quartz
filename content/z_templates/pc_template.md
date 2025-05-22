@@ -9,7 +9,7 @@ tags:
   - pc
 adventure-start: 
 adventure-end: 
-draft: false
+draft: true
 ---
 ## Personality
 ### Ideals
