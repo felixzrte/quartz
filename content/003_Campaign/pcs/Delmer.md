@@ -17,7 +17,8 @@ draft: false
 ---
 # Delmer
 ---
-![delmer | 300](https://media.discordapp.net/attachments/1375129356212506735/1375145226448011264/delmer_hat.webp?ex=68309f4a&is=682f4dca&hm=3a1d7304c7599ccc7c57a4bfd2fec7059e77b2d53e3b1e72bfef03d432c877b4&=&format=webp)
+![]()
+<span class="float-left" style="max-width: 40%;"><img src="https://media.discordapp.net/attachments/1375129356212506735/1375145226448011264/delmer_hat.webp?ex=68309f4a&is=682f4dca&hm=3a1d7304c7599ccc7c57a4bfd2fec7059e77b2d53e3b1e72bfef03d432c877b4&=&format=webp" alt="Delmer PC."/></span>
 ## Personality
 ### Ideals
 De-escalate a fight when violence is imminent.
