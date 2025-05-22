@@ -18,7 +18,7 @@ draft: false
 ---
 # Calcium Carpal
 ---
-![capral | 300](https://cdn.discordapp.com/attachments/1375129356212506735/1375140337994956940/carpal.webp?ex=68309abd&is=682f493d&hm=e76a5b51046909720b2ce5e886cf7329a117fd3052ee5d2592fe327be2097a9d&)
+![capral | 150](https://cdn.discordapp.com/attachments/1375129356212506735/1375140337994956940/carpal.webp?ex=68309abd&is=682f493d&hm=e76a5b51046909720b2ce5e886cf7329a117fd3052ee5d2592fe327be2097a9d&)
 ## Personality
 ### Ideals
 
