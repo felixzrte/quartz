@@ -2,6 +2,7 @@
 title: 
 player: 
 class: 
+level: 
 folk: 
 homeland: 
 aliases: 

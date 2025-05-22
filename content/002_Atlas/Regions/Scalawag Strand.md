@@ -1,9 +1,9 @@
 ---
 title: Scalawag Strand
-aliases: 
+aliases: []
 tags:
   - mucklands/region
-draft: true
+draft: false
 ---
 # Overview
 The sandy beaches of Scalawag Strand stretch from [[Shearwater Bay]] to [[Ligerhead Beach]], comprising the most perilous stretch of shoreline in all of Eem. Speckled with rocks and islands, the safest channels to sail are crowded with traders and merchants traveling to distant lands in the name of the [[Mucklands Trading Co]]. and their industrial masters. Over the last century, pirates of all

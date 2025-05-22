@@ -1,9 +1,10 @@
 ---
 title: Hrg
 player: aristo8677
-class: Dungeoneer
-folk: Dweorg
-homeland: 
+class: "[[Dungeoneer]]"
+level: "1"
+folk: "[[Dweorg]]"
+homeland: "[[Drippy Downs]]"
 aliases:
   - Hrg
 tags:
@@ -13,6 +14,8 @@ tags:
 adventure-start: 
 adventure-end: 
 draft: false
+---
+# Hrg
 ---
 ## Personality
 ### Ideals
@@ -24,5 +27,5 @@ What better way to discover the rarest fish and hit it rich than Dungeoneering? 
 ## Personal Quest
 - Fish up every single fish in the Land of Eem.
 ## Relationships
-- **Party Members**: [[delmer-loyal-chum|Delmer]], [[leonard-gnome|Leonard]]
+- **Party Members**: [[Delmer|Delmer]], [[G. Leonard Thistlebottom|Leonard]], [[Cael Crushclaw|Big Blue]], [[Calcium Carpal|Carpal]]
 
