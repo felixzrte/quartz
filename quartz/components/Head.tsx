@@ -26,6 +26,7 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
+    const mapScriptPath = joinSegments(baseDir, "static/js/interactive-map.js")
 
     // Url of current page
     const socialUrl =
@@ -90,6 +91,10 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+
+        {/* Interactive Map Script */}
+        <script src={mapScriptPath} defer></script>
+
         {additionalHead.map((resource) => {
           if (typeof resource === "function") {
             return resource(fileData)
