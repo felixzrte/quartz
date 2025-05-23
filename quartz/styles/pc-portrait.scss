@@ -1,0 +1,14 @@
+/* Simple left-aligned PC portrait */
+.pc-portrait {
+  margin: 0 1.5rem 1rem 0;
+  max-width: 250px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.pc-portrait img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
