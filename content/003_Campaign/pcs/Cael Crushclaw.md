@@ -23,7 +23,7 @@ level: "1"
 ---
 
 <div class="pc-portrait">
-  <img src="https://media.discordapp.net/attachments/1375129356212506735/1375140337672261749/bigblue.webp?ex=68309abd&is=682f493d&hm=112938702ae08a09348ab8ebbd27bc0863ac8a8ad2d9b542946949280aac2fb1&=&format=webp" alt="Delmer">
+  <img src="https://media.discordapp.net/attachments/1375129356212506735/1375140337672261749/bigblue.webp?ex=68309abd&is=682f493d&hm=112938702ae08a09348ab8ebbd27bc0863ac8a8ad2d9b542946949280aac2fb1&=&format=webp" alt="Big Blue">
 </div>
 
 ## Personality

@@ -1,14 +1,53 @@
-/* Simple left-aligned PC portrait */
+/* PC portrait - circular and centered */
 .pc-portrait {
-  margin: 0 1.5rem 1rem 0;
-  max-width: 250px;
-  border-radius: 8px;
+  display: block;
+  margin: 0 auto 2rem auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  border: 3px solid var(--lightgray);
+  line-height: 0; /* Remove any line-height gaps */
 }
 
 .pc-portrait img {
   width: 100%;
-  height: auto;
-  border-radius: 8px;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
   display: block;
+  margin: 0; /* Remove any default margins */
+  padding: 0; /* Remove any default padding */
+  border: none; /* Remove any inherited borders */
+}
+
+/* Positioning variants - add these classes for specific images */
+.pc-portrait.top img {
+  object-position: center top; /* Focus on top part (good for faces) */
+}
+
+.pc-portrait.face img {
+  object-position: center 30%; /* Focus on upper portion for faces */
+}
+
+.pc-portrait.bottom img {
+  object-position: center bottom; /* Focus on bottom part */
+}
+
+.pc-portrait.left img {
+  object-position: left center; /* Focus on left side */
+}
+
+.pc-portrait.right img {
+  object-position: right center; /* Focus on right side */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .pc-portrait {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 1.5rem;
+  }
 }
