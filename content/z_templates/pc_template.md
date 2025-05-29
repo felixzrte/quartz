@@ -6,6 +6,7 @@ level:
 folk: 
 homeland: 
 aliases: 
+type: pc
 tags:
   - pc
 adventure-start: 
