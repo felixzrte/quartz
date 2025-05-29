@@ -1,5 +1,5 @@
 ---
 draft: true
 ---
-- Look at [[Barnacle Bill]] for the next potential hook!
+- [x] Look at [[Barnacle Bill]] for the next potential hook!
   

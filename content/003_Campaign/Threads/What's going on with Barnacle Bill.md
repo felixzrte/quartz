@@ -1,5 +1,5 @@
 ---
-title: What's going on with Barnacle Billy?
+title: What's going on with Barnacle Bill?
 aliases: 
 tags:
   - thread/rumor
