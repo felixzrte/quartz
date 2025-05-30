@@ -2,7 +2,7 @@
 title: Dungeon Era
 aliases: 
 tags:
-  - lore
+  - lore/history
 page: "8"
 source: CRB
 draft: false
